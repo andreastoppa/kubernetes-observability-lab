@@ -64,4 +64,4 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 **Andrea Stoppa**  
 DevOps Engineer | SRE & Observability Enthusiast  
-[LinkedIn](https://www.linkedin.com/in/andreastoppadevops/) • [GitHub](https://github.com/Staups)
+[LinkedIn](https://www.linkedin.com/in/andreastoppadevops/) • [GitHub](https://github.com/andreastoppa)
